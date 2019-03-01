@@ -1,0 +1,45 @@
+.calbody{
+    text-align: center;
+    margin:0 auto;
+ 
+}
+form{
+    border:1px solid black;
+    width:40%;
+    display:block;
+    border-radius: 10px;
+    margin:0 auto;
+    background-color: black;
+    opacity: 0.8;
+}
+.screen{
+    width:100%;
+    margin:30px auto;
+    display: block;
+}
+.numbtn{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+input[type="button"]{
+    width: 12%;
+    font-size: x-large;
+    padding:5px;
+    margin: 5px 5px;
+
+
+}
+
+h1{
+text-align: center;
+margin-top:5em;
+}
+body{
+   
+    background-image: url("back.jpeg");
+    background-size: cover;
+    background-repeat: none;
+
+    
+}
